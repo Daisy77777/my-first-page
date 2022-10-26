@@ -6,7 +6,7 @@ Hello, this is Daisy
 
 I can do
 
-- python
-- cooking
-- running
+- sleeping
+- eating
+- playing
  
