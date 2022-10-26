@@ -1,6 +1,6 @@
-# Daisy
+# My Name
 
-Hello, this is Daisy
+Hello, this is Daisy!
 
 ## Skills
 
